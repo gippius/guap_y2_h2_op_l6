@@ -1,0 +1,10 @@
+build/
+.idea/
+.vs/
+out/
+cmake-build-*/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
